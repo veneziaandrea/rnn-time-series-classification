@@ -6,6 +6,7 @@
 ![Framework](https://img.shields.io/badge/Framework-PyTorch%20%7C%20TensorFlow-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-implemented-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge)
+
 This project is the first challenge of the AN2DL course (Advanced Neural Networks and Deep Learning) at Politecnico di Milano. It focuses on the classification of multivariate time series sensor data to predict one of three classes related to joint pain. The model uses **Recurrent Neural Networks** (RNN, LSTM, GRU), as documented in the accompanying report, designed to handle class imbalance and high-dimensional input features.
 
 ---
