@@ -1,4 +1,11 @@
 # Rnn-based-time-series-classification
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge)
+![RNN](https://img.shields.io/badge/Model-RNN%20%7C%20LSTM%20%7C%20GRU-purple?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Sequential%20Models-red?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time%20Series-Classification-blue?style=for-the-badge)
+![Framework](https://img.shields.io/badge/Framework-PyTorch%20%7C%20TensorFlow-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-implemented-success?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge)
 This project is the first challenge of the AN2DL course (Advanced Neural Networks and Deep Learning) at Politecnico di Milano. It focuses on the classification of multivariate time series sensor data to predict one of three classes related to joint pain. The model uses **Recurrent Neural Networks** (RNN, LSTM, GRU), as documented in the accompanying report, designed to handle class imbalance and high-dimensional input features.
 
 ---
